@@ -20,4 +20,5 @@ Recommended Operators and Manufacturers
 The project recommends Wind Turbine manufacturers for specific operators based on their requirements and preferences. Two operators, MidAmerican Energy, and RWE Renewables, are analyzed in terms of their preferred manufacturers. The evaluation considers factors such as turbine-rated capacity and recognized quality, resulting in the recommendation of both GE Wind and Siemens Gamesa for further investigation.
 
 
-![Retrofit](https://github.com/surajsathish997/Wind-Turbines-US-Analysis/assets/18410759/0f075f51-fd3f-4efa-95d3-3846fa290ee1)
+![image](https://github.com/surajsathish997/Wind-Turbines-US-Analysis/assets/18410759/be4fc1f6-839d-4935-8394-83d522dd1bf1)
+
